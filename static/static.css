@@ -1,0 +1,12 @@
+.logo {
+    width: 40px;
+    margin-bottom: 5px;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+}
