@@ -103,5 +103,6 @@ def eliminar(id):
     return redirect("/clientes")
 
 
-if __name__ == "__main__":
+if __name__ == "__main__"
+
     app.run(debug=True)
